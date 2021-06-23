@@ -1,0 +1,2 @@
+# amazing-coin
+Experimental
